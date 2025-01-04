@@ -2084,3 +2084,733 @@ try {
 <br>
 <br>
 <br>
+
+# WAIT... THERE'S MORE?! THE README: FINAL SEASON (NOT REALLY) 
+# EXTENDED CUT DIRECTOR'S VERSION 2.0 REMASTERED ULTIMATE EDITION DELUXE EXTRAORDINARY PRO MAX
+
+## THE BEGINNING OF THE END (BUT NOT REALLY)
+
+Listen here you beautiful disaster of a programmer, you thought you reached the end? FOOL! This isn't even my final documentation form! Grab your coffee, sacrifice a rubber duck to the debug gods, and strap in - because this README is about to go where no README has gone before.
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+
+## The Last COBOL Programmer
+![The Last COBOL Programmer](./media/memes/COBOL_programmer.jpg)<br>
+Ladies, gentlemen, and undefined variables, behold the rarest creature in all of computing - the Prehistoric COBOL Programmer! This magnificent specimen, whom we shall call Herbert (because all COBOL programmers are legally required to be named Herbert or Margaret, it's in the IEEE standards), is the last of his kind. 
+
+Legend says he's been maintaining the same banking system since before Stack Overflow existed. Yes, children, there was such a dark time. How did programmers solve problems back then? They READ THE MANUAL. *collective gasps of horror*
+
+Herbert doesn't actually write COBOL anymore - he just glares at the mainframe until it cowers into submission. His desk calendar still shows 1983, not because he forgot to update it, but because time itself is too afraid to move forward in his presence. 
+
+Some say that when the Y2K bug happened, Herbert just told it "Not today, sonny" and it skulked away in shame. The younglings fear him, for he speaks of ancient magicks like "batch processing" and "magnetic tape drives." Once, a junior developer asked him about Docker containers, and Herbert spent four hours explaining how in his day, they had to physically contain the bugs in punch cards.
+
+Known facts about Herbert:
+- Has never used a mouse. Claims they're a fad that will pass
+- His first computer had vacuum tubes. He still has the vacuum
+- Types exclusively in uppercase because "lowercase is for the weak"
+- Has a restraining order against JavaScript
+- His debugger is a literal insect he keeps in a jar
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Great Architectural Decision
+![The Great Architectural Decision](./media/memes/computer_science.jpg)<br>
+Ah, the eternal question that haunts every engineering student's dreams: Computer Science or Civil Engineering? Let's break this down into a totally scientific analysis:
+
+Computer Science:
+- Builds bridges in software that definitely crash
+- Stack overflow means you fucked up
+- Debugging means printing "why" 500 times
+- Your code works on every machine except the one it needs to work on
+- Coffee is cheaper than therapy
+
+Civil Engineering:
+- Builds bridges in reality that hopefully don't crash
+- Stack overflow means someone died
+- Debugging means "have you tried not collapsing?"
+- Your bridge works on every ground except the one it's built on
+- Concrete is cheaper than therapy
+
+Plot twist: Both end up writing SQL queries for a banking app anyway, because that's how the universe maintains its cruel sense of humor. The only difference? The civil engineer actually knows how to use AutoCAD without crying.
+
+Fun fact: This image was taken at the exact moment when both students realized they could have just learned to code on YouTube and saved $100,000 in student loans. The arch represents their dreams of doing something other than attending standups for the rest of their lives.
+
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Python Stand-up Special
+![The Python Stand-up Special](./media/memes/dino_standup.jpg)<br>
+Welcome to "Comedy Club Stack Overflow," where tonight's special guest is a Python developer trying to explain why their language is superior! Watch as they absolutely DESTROY this C++ developer with FACTS and LOGIC:
+
+"Why does Python live on land? Because it's above C-level!" *awkward silence intensifies*
+
+This, my friends, is what happens when you let someone who thinks whitespace is a valid syntax feature try to tell jokes. The only thing higher than Python is its developers' opinion of Python. At least until they try to install dependencies on a Windows machine.
+
+Fun facts about Python developers:
+- Their favorite food is indented noodles
+- They named their firstborn child 'pip install'
+- They have nightmares about semicolons
+- They think type hints are government propaganda
+- Their code is like their jokes - interpreted differently by everyone
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Evolutionary Mistake
+![The Evolutionary Mistake](./media/memes/dinochicken.jpg)<br>
+BEHOLD! The legendary ChickenRaptor™, the result of what happens when you let evolution access the production database without proper access controls. This majestic creature represents every piece of legacy code you've ever inherited:
+
+- Too chicken to be a proper dinosaur
+- Too dinosaur to be a proper chicken
+- Exactly like that microservices architecture you inherited from the team that all quit simultaneously
+- Has the grace of a PHP framework and the ferocity of a jQuery plugin
+
+Legend says this creature was born when a junior developer tried to merge machine learning with a poultry management system. The red comb on its head actually grows larger with each deprecated API it still uses. Scientists have confirmed it runs on Windows XP and refuses to upgrade.
+
+Some say if you listen carefully at midnight, you can hear it screaming "DEPRECATED WARNING" in the distance. Its favorite food? Spaghetti code, of course.
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Real Stand-up Meeting
+![The Real Stand-up Meeting](./media/memes/dinosaurs_programming.jpg)<br>
+Actual footage of our development team during the daily stand-up, or as we like to call it: "The Daily Roar of Shame and Confusion."
+
+Cast of Characters:
+- Dino 1 (The Product Owner): "WHO'S A GOOD BOY? WHO CLOSED THEIR TICKETS?"
+- Dino 2 (The Senior Dev): *chewing on production server* "It works on my machine"
+- Dino 3 (The Backend Dev): *has been in the same Zoom call for 72 hours*
+- Dino 4 (The Frontend Dev): "WHO PUSHED TO MAIN?!"
+- Dino 5 (The Intern): *still trying to set up their development environment*
+
+This is what happens when you let the "Who's a Good Boy?" methodology replace Agile. Still more productive than our usual stand-ups though. Notice how they're all looking at different directions? That's accurate representation of team alignment.
+
+Meeting Minutes:
+- 9:00 AM: Roaring begins
+- 9:05 AM: Someone mentions they're "blocked"
+- 9:06 AM: Collective roaring
+- 9:10 AM: Discussion about who's fetching the new features
+- 9:15 AM: Someone admits to pushing to main
+- 9:16 AM: Chaos ensues
+- 9:20 AM: Meeting ends with no actual updates
+- 9:21 AM: Everyone forgets what was discussed
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Healthcare.js Framework
+![The Healthcare.js Framework](./media/memes/everyone_on_my_floor_is_coding.jpg)<br>
+Behold, the two types of people writing code in 2024:
+- Software Engineers: "I've been coding since I was 3"
+- Literally everyone else: "I just finished my 2-week bootcamp!"
+
+Remember when saying "I'm a programmer" used to impress people? Now my grandma is deploying microservices from her knitting circle. She says her yarn-based neural network has achieved sentience, but I think that's just her cat playing with the strings.
+
+True story: My doctor tried to prescribe me medicine via pull request. The prescription was rejected due to failing unit tests. The pharmacist suggested I try catching my exceptions with try-except blocks, but I'm allergic to Python.
+
+Current state of the industry:
+- Dentists are writing dental hygiene smart contracts
+- Surgeons are doing git commits between operations
+- The local bakery runs on kubernetes
+- My therapist debugs my mental health with console.log
+- The pizza place uses blockchain for tracking toppings
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Great Cleanup Disaster
+![The Great Cleanup Disaster](./media/memes/me_cleaning_up_my_code.jpg)<br>
+Documentation of my last attempt to "just clean up the code real quick":
+
+Hour 1: "I'll just refactor this small function"
+Hour 2: "Why is this variable named 'a2'?"
+Hour 3: "WHO WROTE THIS MESS... oh wait, it was me"
+Hour 4: *Pingu mode activated* "NOOT NOOT MOTHERFUCKER"
+Hour 5: "Everything is connected to everything"
+Hour 6: "The code is alive and it HATES me"
+
+The penguin represents my last two brain cells trying to understand why the previous developer (also me) thought it was a good idea to name all variables after Pokemon characters. The real question isn't "why is the code broken?" but "was it ever really working in the first place?"
+
+Git commit history:
+- "Initial cleanup"
+- "More cleanup"
+- "Please work"
+- "PLEASE WORK"
+- "I SWEAR TO GOD"
+- "NOOT NOOT"
+- "Reverting all changes"
+- "Adding comment: Don't touch this"
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## Matrix Level Coding
+![Matrix Level Coding](./media/memes/me_makes_a_single_line_of_code.jpg)<br>
+What I think I look like writing one line of code:
+- Sunglasses at night
+- Green numbers cascading
+- "I'm in"
+- Multiple monitors showing incomprehensible data
+- Aggressive keyboard typing that somehow makes GUI sounds
+
+What I actually look like:
+- Googling "how to center div" for the 427th time
+- StackOverflow tabs older than my last relationship
+- VS Code autocomplete is my only friend
+- Terminal history full of "clear" commands to hide my shame
+- Copy-pasting from documentation and praying
+
+The Matrix we want:
+- Hacking the mainframe
+- Defeating AI overlords
+- Saving humanity
+
+The Matrix we get:
+- "npm install" failed
+- Node modules folder larger than the known universe
+- Package.json has achieved sentience and is now dating my webpack config
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Evolution of Code Quality
+![The Evolution of Code Quality](./media/memes/my_friends_code.jpg)<br>
+Witness the three stages of code evolution, a tale as old as time itself:
+
+1. My Friend's Code (The Elephant):
+- Majestic and powerful
+- Perfect test coverage
+- Documentation that makes technical writers weep with joy
+- Commits that read like Shakespeare
+- Actually follows SOLID principles
+- Has never heard of technical debt
+
+2. My Code (The Snake):
+- It's trying its best
+- Test coverage is "in progress"
+- Documentation consists of "TODO: Add documentation"
+- Commits include "please work" and "I hate everything"
+- SOLID principles? More like LIQUID principles - constantly changing state
+- Technical debt has better credit score than me
+
+3. What Actually Runs in Production (The Abstract Chaos):
+- Beyond human comprehension
+- Tests? What tests?
+- Documentation is a series of increasingly desperate comments
+- Git blame has been disabled by HR
+- The only principle it follows is Murphy's Law
+- Technical debt has declared bankruptcy
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Metropolitan Illusion
+![The Metropolitan Illusion](./media/memes/new_york_or_london.jpg)<br>
+The three stages of deployment confidence, as illustrated by this masterpiece of self-deception:
+
+Local Environment:
+- "Trust me, this is New York"
+- Everything works perfectly
+- Tests pass with 100% coverage
+- CPU purrs like a kitten
+- Memory leaks? Never heard of her
+
+Staging Environment:
+- "Trust me, this is London"
+- Half the features are on vacation
+- Tests are more like suggestions
+- CPU is having an existential crisis
+- Memory leaks everywhere but "it's fine"
+
+Production Environment:
+- "Trust me, this works"
+- Features are playing hide and seek
+- Tests have left for early retirement
+- CPU is writing its last will and testament
+- Memory isn't leaking, it's actively running away
+
+The image perfectly captures that moment when you realize your "production-ready" code is about as ready for production as a penguin is ready for the Sahara desert.
+
+Actual transcript from deployment:
+- Dev: "It works on my machine"
+- Ops: "Then we'll ship your machine"
+- Machine: *laughs in kernel panic*
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Meme Addiction
+![The Meme Addiction](./media/memes/programmers_looking_at_programming_memes.jpg)<br>
+Ross from Friends perfectly embodies every developer during work hours:
+
+9:00 AM: "Today I will be productive"
+9:01 AM: *opens programming memes folder*
+5:00 PM: "Where did the day go?"
+
+This is what we in the industry call "Asynchronous Task Processing":
+- Main thread: Should be coding
+- Worker thread 1: Looking at memes
+- Worker thread 2: Pretending to work
+- Worker thread 3: Contemplating career choices
+- Event loop: Stuck in an infinite loop of procrastination
+
+The three stages of developer procrastination:
+1. "I should be coding"
+2. "I'll start after this meme"
+3. "Well, there's always tomorrow"
+
+Known side effects of meme addiction:
+- Increased knowledge of programming jokes
+- Decreased actual programming
+- Enhanced ability to relate to debugging duck
+- Chronic case of "just one more meme"
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Python Experience
+![The Python Experience](./media/memes/python_be_like.jpg)<br>
+The six stages of Python enlightenment, as told by our scaly friend:
+
+Stage 1: "Python is so easy!"
+- Everything is readable
+- No semicolons
+- Life is beautiful
+- Whitespace makes sense
+
+Stage 2: "What do you mean 'IndentationError'?"
+- Tabs vs spaces war flashbacks
+- Copy-paste from Stack Overflow breaks everything
+- Whitespace is now the enemy
+- Terminal looks like modern art
+
+Stage 3: "MOTHERF..."
+- Discovers Python 2 vs Python 3
+- pip install becomes emotional support
+- virtualenv is both savior and destroyer
+- Requirements.txt is writing itself
+
+Stage 4: "Why are there so many ways to do the same thing?"
+- List comprehension becomes incomprehensible
+- Lambda functions everywhere
+- Everything is a generator now
+- Metaclasses have gained sentience
+
+Stage 5: "I am become death, destroyer of indents"
+- Types? Optional!
+- Documentation? Optional!
+- Sanity? Optional!
+- Hotel? Trivago!
+
+Stage 6: "I have achieved enlightenment"
+- Realizes all programming languages are equally painful
+- Accepts that nothing matters
+- Writes "import life" hoping it works
+- Becomes one with the whitespace
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Generational Divide
+![The Generational Divide](./media/memes/senior_and_junior_programmer.jpg)<br>
+The eternal battle between experience and enthusiasm, or as we call it in the industry, "The Great Framework War of Every Single Day":
+
+Junior Developer:
+- Knows 47 JavaScript frameworks
+- Can deploy to the cloud blindfolded
+- Has strong opinions about tabs vs spaces
+- "Let's rewrite everything in Rust!"
+- Latest bootcamp graduate
+- Stack Overflow is their religion
+
+Senior Developer:
+- Knows how to center a div without Flexbox
+- Still uses Vim because "it's faster"
+- Remembers the Browser Wars
+- Has PTSD from Internet Explorer
+- Writes documentation in blood
+- IS the Stack Overflow answer
+
+The sacred scroll the senior is holding contains:
+- How to exit Vim
+- The original jQuery documentation
+- The true meaning of 'undefined'
+- Ancient CSS tricks that still work
+- That one regex that nobody understands but everyone uses
+- The secret recipe for handling null pointer exceptions
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## Documentation Induced Madness
+![Documentation Induced Madness](./media/memes/solving_bugs_after_reading_documentation.jpg)<br>
+A documentary of me trying to understand the official documentation, presented in real-time:
+
+Hour 0: "I am a professional. I can handle this."
+- Confidence level: 100%
+- Mental stability: Intact
+- Coffee consumed: 1 cup
+- Stack Overflow tabs: 0
+
+Hour 3: "What do these words mean?"
+- Confidence level: 42%
+- Mental stability: Questionable
+- Coffee consumed: 7 cups
+- Stack Overflow tabs: 73
+- Wall integrity: Beginning to crack
+
+Hour 6: "THE DOCS SPEAK TO ME"
+- Confidence level: ERROR_UNDEFINED
+- Mental stability: null
+- Coffee consumed: IV drip
+- Stack Overflow tabs: Infinite
+- Wall: Now a portal to the documentation dimension
+- Reality: Optional parameter
+
+The crack in the wall isn't damage - it's a visual representation of my sanity trying to escape after reading "it's simple, just..." for the 427th time in the documentation.
+
+Known side effects of documentation exposure:
+- Spontaneous hair loss
+- Uncontrollable muttering about dependency injection
+- Ability to see Matrix code
+- Development of allergic reaction to README files
+- Chronic condition of writing console.log("why")
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The Time Management Paradox
+![The Time Management Paradox](./media/memes/spend_8_hours_writing_the_code.jpg)<br>
+The four horsemen of automation, as presented by Gru's masterclass in programmer time management:
+
+Panel 1: "Encounter a tedious 1-hour task"
+- Brain: "This is beneath me"
+- Reality: Task could be done manually
+- Ego: "But I'm a programmer"
+- Time Remaining: 1 hour
+
+Panel 2: "Write a program to do the task for us"
+- Brain: "AUTOMATE EVERYTHING"
+- Reality: "This seems excessive"
+- Ego: "I AM EFFICIENCY INCARNATE"
+- Time Remaining: 7 hours
+
+Panel 3: "Spend 8 hours writing the code"
+- Brain: "Just one more bug fix"
+- Reality: Crying in corner
+- Ego: "We're almost there"
+- Time Remaining: -7 hours
+
+Panel 4: "Spend 8 hours writing the code"
+- Brain.exe has stopped working
+- Reality: Task could have been done 8 times manually
+- Ego: "But now it's AUTOMATED"
+- Time Remaining: Why do you hurt me this way
+
+Actual git commit history:
+- "Initial automation script"
+- "Fixed typo in automation"
+- "Actually fixed typo"
+- "Please work"
+- "PLEASE WORK"
+- "I hate everything"
+- "Maybe manual way wasn't so bad"
+- "Don't look at this commit"
+- "I am become automation, destroyer of time"
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The AI Takeover
+![The AI Takeover](./media/memes/tesla_autopilot.jpg)
+The three stages of AI-assisted development, or "Why I Trust My Code About As Far As I Can Throw My Server Rack":
+
+What I Expected:
+- Perfect code completion
+- Bug-free suggestions
+- AI understanding context
+- Meaningful variable names
+- Actual helpful comments
+
+What I Got:
+- "Have you tried turning it off and on again?"
+- Variables named 'aaa', 'aaaaa', and 'AAAAAAAA'
+- Comments that just say "This code does stuff"
+- Suggestions to import the entire npm registry
+- Stack Overflow answers from 2009
+
+The AI thinks it's helping:
+- "I see you're writing code. Would you like me to:
+	- a) Crash your IDE
+	- b) Suggest deprecated functions
+	- c) Generate code that looks right but is fundamentally wrong
+	- d) All of the above, simultaneously"
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+## The CSS Reality
+![The CSS Reality](./media/memes/background_image.jpg)
+Behold, the sacred text that haunts every frontend developer's dreams. Some say if you stare at this image long enough, you'll finally understand CSS positioning. They lied. Nobody understands CSS positioning.
+
+This piece of paper represents:
+- Every attempt to center a div
+- The collective suffering of frontend developers
+- The eternal mystery of z-index
+- That one CSS rule that works but you don't know why
+- The reason why designers and developers can't be friends
+
+Archaeological analysis reveals:
+- Age: As old as the first webpage
+- Purpose: Unknown
+- Success rate: -42%
+- Number of developers driven mad: All of them
+- Current status: It works on Chrome (maybe)
+
+Found in the ancient scrolls of styling:
+- "He who centers the div shall be king"
+- "Float left, young padawan"
+- "Display: flex; /* Magic spell, do not touch */"
+- "Position: relative; /* To what? Nobody knows */"
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  ████████╗██╗  ██╗███████╗    ███████╗███╗   ██╗██████╗        ║
+║  ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝████╗  ██║██╔══██╗       ║
+║     ██║   ███████║█████╗      █████╗  ██╔██╗ ██║██║  ██║       ║
+║     ██║   ██╔══██║██╔══╝      ██╔══╝  ██║╚██╗██║██║  ██║       ║
+║     ██║   ██║  ██║███████╗    ███████╗██║ ╚████║██████╔╝       ║
+║     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═══╝╚═════╝        ║
+║                                                                ║
+║    but is it really? but is it really? but is it really?       ║
+║    but is it really? but is it really? but is it really?       ║
+║    but is it really? but is it really? but is it really?       ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+[FINAL STATUS REPORT]
+- Sanity: 404 Not Found
+- Coffee Level: Critical
+- Bugs: Now Feature Requests
+- Documentation: Still In Progress
+- Reality: Deprecated
+- README: Achieved Sentience
+
+[END OF TRANSMISSION... OR IS IT?]
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Shrek](./media/shrek.jpg)
+# IS THAT A FUCKING SHREK ?!
