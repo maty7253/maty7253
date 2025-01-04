@@ -219,7 +219,7 @@ function theElderCode() {
 
     o
     |\\   * clones repository
-   /|
+    |
    / \
 
     o
@@ -227,7 +227,7 @@ function theElderCode() {
     |
    / \
 
-    \o/    * understands nothing
+   \o/    * understands nothing
     |
    / \
 
@@ -275,7 +275,7 @@ function theElderCode() {
     |
    / \
 
-    \o/    * PR merged!
+   \o/    * PR merged!
     |
    / \
 
@@ -1999,3 +1999,10 @@ try {
 # THE END
 
 <hr>
+
+```ascii
+    o     * masturbating stickman
+   \|\
+    |/
+   / \
+```
