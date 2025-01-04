@@ -1504,7 +1504,7 @@ function theAncientOne() {
 ```
 DEPLOYMENT CHECKLIST
     
-☐ Pray to the AWS gods
+ ☐ Pray to the AWS gods
  ☐ Sacrifice a rubber duck
  ☐ Update resume
  ☐ Back up everything
