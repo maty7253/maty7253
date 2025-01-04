@@ -1550,7 +1550,7 @@ function ït̷̞̤̍_̶̝͋w̶̹͒͜a̷̲͑t̵͇̿͜c̷̟̊h̷͔̏ȩ̶͐s() {
 
 They say if you stare at this function long enough, it stares back at you. Some developers claim they can hear it whispering when they run the tests. Others say it writes its own commit messages at 3 AM.
 
-## THE INFINITE LOOP VAGINA
+## THE INFINITE LOOP VAGINA (inspired by my sister)
 
 ```
      ∞
