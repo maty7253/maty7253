@@ -1995,6 +1995,13 @@ try {
 
 # THE END
 
+```ascii
+    o     * masturbating stickman
+   \|\
+    |/
+   / \
+```
+
 <hr>
 
 <br>
@@ -2038,12 +2045,8 @@ try {
 <br>
 <br>
 
-```ascii
-    o     * masturbating stickman
-   \|\
-    |/
-   / \
-```
+# OH WAIT!
+
 <br>
 <br>
 <br>
@@ -2085,8 +2088,138 @@ try {
 <br>
 <br>
 
-# WAIT... THERE'S MORE?! THE README: FINAL SEASON (NOT REALLY) 
+# IS THAT A FUCKING SHREK ?!
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Shrek](./media/shrek.jpg)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# WAIT... THERE'S MORE?! THE README: FINAL SEASON (NOT REALLY)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # EXTENDED CUT DIRECTOR'S VERSION 2.0 REMASTERED ULTIMATE EDITION DELUXE EXTRAORDINARY PRO MAX
+
+![supershock_fucking_emoji](./media/supershock_fucking_emoji.jpg)
 
 ## THE BEGINNING OF THE END (BUT NOT REALLY)
 
@@ -2731,86 +2864,3 @@ Found in the ancient scrolls of styling:
 - README: Achieved Sentience
 
 [END OF TRANSMISSION... OR IS IT?]
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![Shrek](./media/shrek.jpg)
-# IS THAT A FUCKING SHREK ?!
