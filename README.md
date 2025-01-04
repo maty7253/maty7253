@@ -336,8 +336,8 @@ function theElderCode() {
  |                                                  |
  |    +----------------+                            |
  |    |                |                            |
- |    |  Chaos and    |                            |
- |    |   Despair     |                            |
+ |    |  Chaos and    |                             |
+ |    |   Despair     |                             |
  |    |                |                            |
  |    +----------------+                            |
  |                                                  |
@@ -856,19 +856,19 @@ Version 2.0.0: Should have stayed with version 1.0.0
 ```ascii
                    PRODUCTIVITY TOOLS
 +--------------------------------------------------+
-|                                                   |
-|   [Chrome with 427 Stack Overflow tabs open]      |
-|                                                   |
-|   [VS Code with 42 unused extensions]             |
-|                                                   |
-|   [Terminal with 15 incomplete commands]          |
-|                                                   |
-|   [Slack with 1000+ unread messages]              |
-|                                                   |
-|   [Spotify playing lofi beats to debug to]        |
-|                                                   |
-|   [CPU fan screaming for help]                    |
-|                                                   |
+|                                                  |
+|   [Chrome with 427 Stack Overflow tabs open]     |
+|                                                  |
+|   [VS Code with 42 unused extensions]            |
+|                                                  |
+|   [Terminal with 15 incomplete commands]         |
+|                                                  |
+|   [Slack with 1000+ unread messages]             |
+|                                                  |
+|   [Spotify playing lofi beats to debug to]       |
+|                                                  |
+|   [CPU fan screaming for help]                   |
+|                                                  |
 +--------------------------------------------------+
 ```
 
@@ -990,7 +990,7 @@ try {
         throw new Error("But when");
     }
 } catch (e4) {
-    console.log("¯\\_(ツ)_/¯");
+    console.log("¯\_(ツ)_/¯");
 }
 ```
 
@@ -1079,19 +1079,19 @@ The bug even started affecting my ASCII art:
 Before the bug:
    /\___/\
   (  o o  )
-  (  =^=  )
-   (---)
-    |_|
+  (_ =^= _)
+    (- -)
+     |_|
 
 After the bug:
    /\___/\
   (  x x  )
-  (  =^=  )
-   (---)    <-- Help
-    |_|
-   /   \    <-- Growing legs?
-  /     \   <-- Oh no
- /       \  <-- It's evolving
+  (_ =^= _)
+    (---)     <-- Help
+     |_|
+    /   \     <-- Growing legs?
+   /     \    <-- Oh no
+  /       \   <-- It's evolving
 ```
 
 My IDE started sending me personal messages:
@@ -1179,9 +1179,9 @@ But the bug followed me to the mountains. I saw it in the patterns of the leaves
   /    \
  /      \
 /________\
-   ||
-   ||
-   ||
+    ||
+    ||
+    ||
 
 The Mountain of Infinite Recursion
 Where Bugs Go To Retire
@@ -1268,31 +1268,31 @@ Found carved into the walls of an ancient data center:
     
     |----------------------------------|
     |                                  |
-    | 1. Thou shalt console.log()     |
+    |   1. Thou shalt console.log()    |
     |                                  |
-    | 2. Thou shalt not trust the     |
+    |   2. Thou shalt not trust the    |
     |    documentation                 |
     |                                  |
-    | 3. Thou shalt blame the cache   |
+    |   3. Thou shalt blame the cache  |
     |                                  |
-    | 4. Thou shalt restart the       |
-    |    server                       |
+    |   4. Thou shalt restart the      |
+    |      server                      |
     |                                  |
-    | 5. Thou shalt git blame         |
+    |   5. Thou shalt git blame        |
     |                                  |
-    | 6. Thou shalt try turning it    |
-    |    off and on again             |
+    |   6. Thou shalt try turning it   |
+    |      off and on again            |
     |                                  |
-    | 7. Thou shalt check Stack       |
-    |    Overflow                     |
+    |   7. Thou shalt check Stack      |
+    |      Overflow                    |
     |                                  |
-    | 8. Thou shalt not push to       |
-    |    master                       |
+    |   8. Thou shalt not push to      |
+    |      master                      |
     |                                  |
-    | 9. Thou shalt make a backup     |
+    |   9. Thou shalt make a backup    |
     |                                  |
-    | 10. Thou shalt pray to the      |
-    |     compiler gods               |
+    |   10. Thou shalt pray to the     |
+    |       compiler gods              |
     |                                  |
     |----------------------------------|
 ```
@@ -1363,12 +1363,12 @@ function oldCode() {
    | 03:15 AM - wait no           |
    | 03:16 AM - oh god            |
    | 03:16 AM - OH NO             |
-   | 03:17 AM - AAAAAAAAAAAAA    |
-   | 03:18 AM - null             |
-   | 03:19 AM - undefined        |
-   | 03:20 AM - NaN NaN NaN      |
-   | 03:21 AM - Batman!          |
-   | 03:22 AM - Connection lost  |
+   | 03:17 AM - AAAAAAAAAAAAA     |
+   | 03:18 AM - null              |
+   | 03:19 AM - undefined         |
+   | 03:20 AM - NaN NaN NaN       |
+   | 03:21 AM - Batman!           |
+   | 03:22 AM - Connection lost   |
    \______________________________/
 ```
 
@@ -1420,17 +1420,17 @@ while(true) {
 ## THE SERVER ROOM CHRONICLES
 
 ```ascii
-    +-------------------+
-    |   SERVER ROOM 42  |
-    |                   |
-    | Temperature: HOT  |
-    | Humidity: WHY     |
-    | Status: HAUNTED   |
-    +-------------------+
-         |  |  |  |
+    +--------------------+
+    |   SERVER ROOM 42   |
+    |                    |
+    |  Temperature: HOT  |
+    |  Humidity: WHY     |
+    |  Status: HAUNTED   |
+    +--------------------+
+          |  |  |  |
     [====================]
-    [ ABANDON ALL HOPE  ]
-    [ YE WHO ENTER HERE ]
+    [  ABANDON ALL HOPE  ]
+    [ YE WHO ENTER HERE  ]
     [====================]
 ```
 
@@ -1502,17 +1502,17 @@ function theAncientOne() {
 ## THE DEPLOYMENT DIARY
 
 ```
-    DEPLOYMENT CHECKLIST
+DEPLOYMENT CHECKLIST
     
-    ☐ Pray to the AWS gods
-    ☐ Sacrifice a rubber duck
-    ☐ Update resume
-    ☐ Back up everything
-    ☐ Back up the backups
-    ☐ Write farewell letter
-    ☐ Deploy to production
-    ☐ ???
-    ☐ Profit
+☐ Pray to the AWS gods
+ ☐ Sacrifice a rubber duck
+ ☐ Update resume
+ ☐ Back up everything
+ ☐ Back up the backups
+ ☐ Write farewell letter
+ ☐ Deploy to production
+ ☐ ???
+ ☐ Profit
 ```
 
 Deployment Log:
@@ -1601,7 +1601,6 @@ countToInfinity(1);
     Segmentation fault (core dumped)
 
 [Continue reading? y/n]
-
 > _
 ```
 
@@ -1623,17 +1622,17 @@ In a parallel universe where documentation is always up to date:
     
     ERROR: UNIVERSE NOT FOUND
 
+```
+
 ## THE CODE REVIEW CONTINUES
 
-Pull Request `#42424242`:
-
 ```
+Pull Request `#42424242`:
 
 Title: Refactored everything
 Description: It works on my machine
 
 Changes:
-```
 - Rewrote entire codebase in Brainfuck
 - Replaced all loops with GOTO
 - Added quantum computing support
@@ -1645,11 +1644,9 @@ Changes:
 
 Status: Ready for review
 Reviewers: @cthulhu @skynet @deepthought
-```
+
 
 Comments:
-
-```
 @seniordev: Please add tests
 @author: Tests are an illusion
 @seniordev: What does this function do?
@@ -1804,10 +1801,10 @@ Date: THE END IS NEVER
   /     |  |     \
  /      |__|      \
 /        ||        \
-===================
-   PYRAMID OF 
-    TECHNICAL
-      DEBT
+====================
+    PYRAMID OF 
+     TECHNICAL
+       DEBT
 ```
 
 ## THE LAST DEBUG LOG
