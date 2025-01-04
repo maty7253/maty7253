@@ -336,8 +336,8 @@ function theElderCode() {
  |                                                  |
  |    +----------------+                            |
  |    |                |                            |
- |    |  Chaos and    |                             |
- |    |   Despair     |                             |
+ |    |  Chaos and     |                            |
+ |    |   Despair      |                            |
  |    |                |                            |
  |    +----------------+                            |
  |                                                  |
