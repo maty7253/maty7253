@@ -2217,9 +2217,17 @@ try {
 <br>
 <br>
 
-# EXTENDED CUT DIRECTOR'S VERSION 2.0 REMASTERED ULTIMATE EDITION DELUXE EXTRAORDINARY PRO MAX
+# EXTENDED DIRECTOR'S CUT VERSION 2.0 REMASTERED ULTIMATE EXTRAORDINARY DELUXE PRO MAX EDITION 
 
-![supershock_fucking_emoji](./media/supershock_fucking_emoji.jpg)
+<p align="center">
+  <img src="./media/supershock_fucking_emoji.jpg" alt="supershock_fucking_emoji" width="100"/>
+  <img src="./media/supershock_fucking_emoji.jpg" alt="supershock_fucking_emoji" width="100"/>
+  <img src="./media/supershock_fucking_emoji.jpg" alt="supershock_fucking_emoji" width="100"/>
+  <img src="./media/supershock_fucking_emoji.jpg" alt="supershock_fucking_emoji" width="100"/>
+  <img src="./media/supershock_fucking_emoji.jpg" alt="supershock_fucking_emoji" width="100"/>
+  <img src="./media/supershock_fucking_emoji.jpg" alt="supershock_fucking_emoji" width="100"/>
+</p>
+
 
 ## THE BEGINNING OF THE END (BUT NOT REALLY)
 
