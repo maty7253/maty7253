@@ -39,7 +39,7 @@ HELLO INTERNET PERSON WHO IS READING THIS I HOPE YOU ARE HAVING A WONDERFUL DAY 
 33. goats are now senior developers
 34. I report to goats
 35. life is strange
-36. I still live on mountain with even more goats
+36. I still live on mountain with even more goats    <--- that's also my location
 
 ## MY FAVORITE PROGRAMMING LANGUAGES RANKED BY HOW MUCH THEY HURT MY FEELINGS
 
