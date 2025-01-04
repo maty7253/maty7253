@@ -30,16 +30,16 @@ Pro tip: If you have cats, they will immediately claim at least three crucial pi
 
 Let's categorize what we're looking at:
 
-A. Long wooden things
-B. Short wooden things
-C. Medium wooden things that look exactly like the long wooden things but are 2mm shorter
-D. Flat wooden things
-E. Curved wooden things that make you question reality
-F. Metal things that might be screws
-G. Metal things that look like screws but aren't
-H. Plastic things that will definitely break
-I. Mystery pieces that don't belong to anything you own
-J. That one piece that looks important but won't be used at all
+- A. Long wooden things
+- B. Short wooden things
+- C. Medium wooden things that look exactly like the long wooden things but are 2mm shorter
+- D. Flat wooden things
+- E. Curved wooden things that make you question reality
+- F. Metal things that might be screws
+- G. Metal things that look like screws but aren't
+- H. Plastic things that will definitely break
+- I. Mystery pieces that don't belong to anything you own
+- J. That one piece that looks important but won't be used at all
 
 ### CHAPTER 4: THE PSYCHOLOGY OF IKEA
 
@@ -127,9 +127,9 @@ However, if any of the following occur, consider calling for help:
 ### CHAPTER 10: CELEBRATING SUCCESS
 
 Congratulations! You've either:
-A) Created something that vaguely resembles furniture
-B) Created modern art
-C) Both
+- A) Created something that vaguely resembles furniture
+- B) Created modern art
+- C) Both
 
 Your creation might have some quirks, like:
 - Doors that open the wrong way
@@ -214,17 +214,17 @@ Now that you've survived this experience, it's your duty to pass on your knowled
 
 ### CHAPTER 17: FREQUENTLY ASKED QUESTIONS
 
-Q: Why don't my drawers close properly?
-A: Your drawers are expressing their individuality.
+- Q: Why don't my drawers close properly?
+- A: Your drawers are expressing their individuality.
 
-Q: Where did all these extra screws come from?
-A: They multiply when you're not looking.
+- Q: Where did all these extra screws come from?
+- A: They multiply when you're not looking.
 
-Q: Why does my bookshelf lean to the left?
-A: It's making a political statement.
+- Q: Why does my bookshelf lean to the left?
+- A: It's making a political statement.
 
-Q: Is it normal for furniture to make these sounds?
-A: Define "normal."
+- Q: Is it normal for furniture to make these sounds?
+- A: Define "normal."
 
 ### CHAPTER 18: EMERGENCY PROCEDURES
 
@@ -243,7 +243,7 @@ Remember, building IKEA furniture without instructions isn't just about creating
 
 You are now part of an elite group of individuals who have stared into the abyss of Swedish furniture design and emerged... different. Not necessarily better, just different.
 
-APPENDIX A: GLOSSARY OF TERMS
+### APPENDIX A: GLOSSARY OF TERMS
 
 - Döohickey: Any piece you can't identify
 - Thingamabob: Any piece you've lost
@@ -252,7 +252,7 @@ APPENDIX A: GLOSSARY OF TERMS
 - HELP: A common exclamation during assembly
 - Wine o'clock: Any time during assembly
 
-APPENDIX B: SURVIVAL TIPS
+### APPENDIX B: SURVIVAL TIPS
 
 1. Keep your sense of humor (it's all you'll have left)
 2. Remember that "level" is a social construct
@@ -260,13 +260,11 @@ APPENDIX B: SURVIVAL TIPS
 4. Gravity is sometimes optional
 5. Reality is what you make of it
 
-FINAL THOUGHTS
+### FINAL THOUGHTS
 
 If you've made it this far, congratulations! You're either very dedicated or very lost (possibly both). Remember, the journey of furniture assembly without instructions is never truly over - it just evolves into different forms of questioning your life choices.
 
 May your allen wrenches stay strong and your particle board never chip.
-
-THE END
 
 (But is it really ever the end when it comes to IKEA furniture?)
 
