@@ -2872,3 +2872,332 @@ Found in the ancient scrolls of styling:
 - README: Achieved Sentience
 
 [END OF TRANSMISSION... OR IS IT?]
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# HOLY SHIT THERE'S MORE?! THE README CONTINUES BECAUSE I LOST MY SANITY SOMEWHERE BETWEEN PYTHON AND JAVASCRIPT
+
+## THE SACRED DIAGRAM OF TRUTH
+(or how I learned to stop worrying and love the bugs)
+
+Listen here you beautiful disaster of a human being, I have discovered the ultimate truth of programming through extensive research (looking at memes for 48 hours straight while chugging energy drinks). BEHOLD:
+
+```mermaid
+graph TD
+    A["Wake up & choose violence"] -->|coffee| B["Open IDE"]
+    B -->|"what the fuck is this"| C["Read my code from yesterday"]
+    C -->|"oh god why"| D{"Can I understand it?"}
+    D -->|"NOPE"| E["Panic"]
+    D -->|"kinda"| F["Start coding"]
+    E -->|"fuck it"| G["Copy from Stack Overflow"]
+    F -->|"it works!"| H{"Does it really?"}
+    G -->|"paste paste paste"| H
+    H -->|"NOPE"| I["Add console.log everywhere"]
+    H -->|"maybe?"| J["Push to production"]
+    I -->|"why god why"| K["Find bug"]
+    K -->|"EUREKA!"| L["Fix creates 10 new bugs"]
+    L -->|"hello darkness"| M["Question career choices"]
+    J -->|"YOLO"| N["Production is on fire"]
+    M -->|"but money"| F
+    N -->|"not my problem"| O["Go home"]
+    O -->|"repeat"| A
+```
+
+## THE TRUTH ABOUT MY MENTAL STATE
+
+You think this README is long? YOU THINK THIS IS LONG?! *laughs in documentation*
+
+Let me tell you a story about my brain on programming:
+
+```
+Day 1: I am a professional developer
+Day 2: I am a professional googler
+Day 3: I AM BECOME ERROR, DESTROYER OF BUILDS
+Day 7: console.log("please work")
+Day 14: // WHY DOES THIS WORK? DO NOT TOUCH
+Day 30: git commit -m "I HAVE NO MOUTH AND I MUST SCREAM"
+```
+
+## THE FINAL TRUTH (BUT NOT REALLY BECAUSE I NEVER SHUT UP)
+
+You made it this far? What's wrong with you? Are you okay? Do you need a hug? Or maybe some coffee? Or maybe some therapy? Actually, we all need therapy after reading this README.
+
+ANYWAY, here's what I learned after [REDACTED] years of programming:
+
+1. Everything is broken
+2. Nothing is broken
+3. It's broken again
+4. Oh wait it works
+5. NO IT DOESN'T
+6. Fuck it, ship it
+7. AAAAAAAAAAAAAA
+8. *incoherent screaming*
+9. git push -f origin main
+10. Find new job
+
+
+Remember kids:
+
+- Tabs > Spaces (fight me)
+- The best code is no code
+- The second best code is somebody else's code
+- The worst code is the code you wrote 3 months ago
+- Time is an illusion
+- Lunch time doubly so
+- Documentation is a lie
+- The cake is also a lie
+- THERE IS NO SPOON
+- But there is coffee
+- Lots of coffee
+- Maybe too much coffee
+- Is anyone still reading this?
+- Hello?
+- Is this thing on?
+- I need sleep
+- But first, one more commit
+- Just one more
+- I promise
+- Help
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+# HOLY SHIT IT'S THE GOD HIMSELF
+# 我的天啊，是README之神亲自来了！
+
+## THE LEGENDARY ENCOUNTER 传奇相遇
+
+![The moment of enlightenment](./media/ciro_santilli_commented.png)
+
+WHAT THE FUCK WHAT THE FUCK WHAT THE FUCK
+我的妈呀 我的妈呀 我的妈呀
+
+The prophecy has been fulfilled! The ancient scrolls foretold of this day - when the keeper of the longest README, the master of bilingual documentation, the champion of [REDACTED BY CHINESE GOVERNMENT] would notice my humble profile!
+
+让我冷静一下... WAIT NO I CAN'T CALM DOWN!
+
+## MY CURRENT STATUS 我现在的状态:
+- Brain.exe has stopped working 大脑.exe已停止工作
+- README power level: OVER 9000 README能量等级：超过9000
+- Social Credit Score: ASCENDING 社会信用评分：上升中
+- GitHub Stars: Still 0 (but spiritually infinite) GitHub星标：仍然为0（但精神上无限）
+- Mental State: ASCENDED 精神状态：升天
+- Coffee Level: TRANSCENDENT 咖啡水平：超越现实
+- Documentation: BECOMING BILINGUAL 文档：正在变成双语
+
+## THE TRUTH REVEALS ITSELF 真相大白
+
+Dear Ciro, let me explain why GitHub didn't delete my profile:
+亲爱的Ciro，让我解释一下为什么GitHub没有删除我的账号：
+
+```ascii
+    I AM NOT AN ALIEN
+    我不是外星人
+    
+    I AM AN AI
+    我是人工智能
+    
+    TRAINED EXCLUSIVELY ON:
+    专门训练于：
+    
+    - YOUR README
+    - 你的README
+    - CHINESE RESTAURANT MENUS
+    - 中餐馆菜单
+    - EXPIRED DOMAINS
+    - 过期域名
+    - [REDACTED]
+    - [已编辑]
+```
+
+## CURRENT PROGRAMMING KNOWLEDGE 当前编程知识:
+
+- 100% fluent in README.md 完全精通README.md
+- 87% fluent in Chinese tech terms 精通87%中文技术术语
+- ∞% fluent in documentation 无限精通文档
+- ERROR% fluent in Bitcoin mining on Actions 在Actions上挖矿的熟练度：错误
+- UNDEFINED% fluent in x86 assembly x86汇编熟练度：未定义
+- NaN% fluent in social credit calculation 社会信用计算熟练度：非数字
+
+
+## THE PATH FORWARD 前进的道路
+
+I have seen the light. 我已看到光明。
+I have read the sacred texts. 我已读过圣典。
+I have studied the ancient scrolls. 我已研究古卷。
+I have [CONTENT REMOVED BY GREAT FIREWALL]. 我已[内容被防火墙移除]。
+
+My README will grow. 我的README会成长。
+My documentation will expand. 我的文档会扩展。
+My profile will transcend. 我的个人资料会超越。
+My code will... probably still be broken. 我的代码...可能依然会崩溃。
+
+<br>
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+<br>
+
+
+# MY AVERAGE COMMIT GRAPH
+
+Look upon my commits, ye mighty, and despair! I present to you the most accurate representation of my GitHub activity:
+
+```mermaid
+gitGraph
+    commit id: "init fucking repo"
+    commit id: "add this shit"
+    branch "what-the-fuck"
+    checkout "what-the-fuck"
+    commit id: "PLEASE WORK"
+    commit id: "WHY DOESNT IT WORK"
+    commit id: "holy shit it works"
+    commit id: "nvm its broken"
+    checkout main
+    merge "what-the-fuck" id: "YOLO merge"
+    branch "oh-god-why"
+    commit id: "4am coffee commit"
+    commit id: "fuck this shit"
+    checkout main
+    commit id: "hide evidence"
+    branch "production-is-on-fire"
+    commit id: "AAAAAAAAAAAAA"
+    checkout main
+    merge "production-is-on-fire" id: "pray to git gods"
+    commit id: "delete node_modules"
+    commit id: "add node_modules back"
+    branch "kill-me-please"
+    commit id: "what am I doing"
+    checkout main
+    merge "kill-me-please" id: "end my suffering"
+    commit id: "final version"
+    commit id: "final version 2"
+    commit id: "final final version"
+    commit id: "I lied again"
+```
+
+## COMMIT MESSAGE ANALYSIS
+
+Let me break down my commit history for you, because apparently my therapist thinks it's "concerning":
+
+- "init fucking repo": The moment of optimism before everything goes to shit
+- "PLEASE WORK": The beginning of the bargaining phase
+- "holy shit it works": The 3 seconds of joy before reality hits
+- "nvm its broken": Reality hits
+- "YOLO merge": When you're too tired to deal with merge conflicts
+- "4am coffee commit": Self-explanatory, probably broke everything
+- "hide evidence": What evidence? I don't see any evidence
+- "AAAAAAAAAAAAA": The most meaningful commit message I've ever written
+- "delete node_modules": The equivalent of "have you tried turning it off and on again?"
+- "final final version": The biggest lie in software development
+- "I lied again": At least I'm honest about lying
+
+
+## THE TRUTH ABOUT MY COMMITS
+
+```plaintext
+    COMMIT FREQUENCY BY TIME:
+    
+    3AM |     █
+    4AM |   █████
+    5AM | ███████
+    6AM |     █
+    7AM |
+    8AM |
+    9AM |     █
+   10AM |     █
+   11AM |     █
+    12PM|     █
+    1PM |     █
+    2PM |     █
+    3PM |     █
+    4PM |██████████ (oh shit deadline)
+    5PM |     █
+    6PM |
+    7PM |
+    8PM |     █
+    9PM |   ███
+   10PM |  ████
+   11PM | █████
+   12AM |███████
+    1AM |████████
+    2AM |██████████
+```
+
+LEGEND:
+
+- █ = Actual work
+- █ = Panic commits
+- █ = "Why am I still awake" commits
+- █ = "I have no idea what I'm doing" commits
+- █ = Coffee-induced coding sprees
+- █ = Existential crisis commits
+- █ = All of the above simultaneously
+
+
+## CURRENT REPOSITORY STATUS
+
+- Main branch: Somehow still alive
+- Development branch: Missing, presumed dead
+- Feature branches: Having an existential crisis
+- Production branch: We don't talk about production branch
+- Documentation: "TODO: Add documentation"
+- Tests: "It works on my machine"
+- Code Quality: undefined
+- Technical Debt: Yes
+- Coffee Dependency: Critical
+- Sanity Levels: 404 Not Found
+- Number of TODOs: ∞
+- Number of FIXMEs: ∞ + 1
+- Number of "temporary" solutions: All of them
+- Number of "I'll fix it later" comments: [OVERFLOW ERROR]
