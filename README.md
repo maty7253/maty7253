@@ -3001,9 +3001,6 @@ Remember kids:
 <br>
 <br>
 <br>
-
-<hr>
-
 <br>
 <br>
 <br>
@@ -3081,9 +3078,6 @@ My code will... probably still be broken. 我的代码...可能依然会崩溃�
 <br>
 <br>
 <br>
-
-<hr>
-
 <br>
 <br>
 <br>
