@@ -4,7 +4,7 @@
 [![maty's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maty7253&theme=github-compact)](https://github.com/pilot2254)
 
 <br><br><br><br><br><br><br><br>
-<div>
+</div>
 
 	 
 # MY SUPER AWESOME GITHUB PROFILE README THAT NEVER ENDS BECAUSE I DONT KNOW WHEN TO STOP TYPING AND ALSO I FORGOT WHERE THE PERIOD KEY IS SO HERE WE GO
