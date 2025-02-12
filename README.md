@@ -1,3 +1,10 @@
+<div align="center">
+
+![maty's trophies](https://github-profile-trophy.vercel.app/?username=maty7253&theme=onestar&row=1&column=9)
+[![maty's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maty7253&theme=github-compact)](https://github.com/pilot2254)
+
+ <div>
+<br><br><br><br><br><br><br><br>
 # MY SUPER AWESOME GITHUB PROFILE README THAT NEVER ENDS BECAUSE I DONT KNOW WHEN TO STOP TYPING AND ALSO I FORGOT WHERE THE PERIOD KEY IS SO HERE WE GO
 
 HELLO INTERNET PERSON WHO IS READING THIS I HOPE YOU ARE HAVING A WONDERFUL DAY BUT IF NOT THATS OKAY TOO BECAUSE LIFE IS LIKE JAVASCRIPT SOMETIMES IT MAKES SENSE AND SOMETIMES IT DOESNT AND SOMETIMES YOU JUST HAVE TO ACCEPT THAT UNDEFINED IS NOT A FUNCTION
