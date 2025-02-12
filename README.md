@@ -1,7 +1,6 @@
 <div align="center">
 
-![maty's trophies](https://github-profile-trophy.vercel.app/?username=maty7253&theme=onestar&row=1&column=9)
-[![maty's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maty7253&theme=github-compact)](https://github.com/pilot2254)
+[![maty's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maty7253&custom_title=My%20fucking%20contribution%20graph&days=50&point=00000000&bg_color=000000&color=ffffff&title_color=ffffff&line=ffffff)](https://github.com/maty7253)
 
 <br><br><br><br><br><br><br><br>
 </div>
