@@ -1,11 +1,3 @@
-<div align="center">
-
-[![maty's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maty7253&custom_title=My%20fucking%20contribution%20graph&days=50&point=00000000&bg_color=000000&color=ffffff&title_color=ffffff&line=ffffff)](https://github.com/maty7253)
-
-<br><br><br><br><br><br><br><br>
-</div>
-
-	 
 # MY SUPER AWESOME GITHUB PROFILE README THAT NEVER ENDS BECAUSE I DONT KNOW WHEN TO STOP TYPING AND ALSO I FORGOT WHERE THE PERIOD KEY IS SO HERE WE GO
 
 HELLO INTERNET PERSON WHO IS READING THIS I HOPE YOU ARE HAVING A WONDERFUL DAY BUT IF NOT THATS OKAY TOO BECAUSE LIFE IS LIKE JAVASCRIPT SOMETIMES IT MAKES SENSE AND SOMETIMES IT DOESNT AND SOMETIMES YOU JUST HAVE TO ACCEPT THAT UNDEFINED IS NOT A FUNCTION
